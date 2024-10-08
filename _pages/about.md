@@ -40,11 +40,11 @@ _To appear in Proceedings of the 27th International Conference on Pattern Recogn
 - [**Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**](https://aclanthology.org/2024.inlg-main.35/),
 **Weijia Zhang**, Mohammad Aliannejadi, Yifei Yuan, Jiahuan Pei, Jia-hong Huang, Evangelos Kanoulas. _In Proceedings of the 17th International Natural Language Generation Conference (INLG)_, 2024.
 
-- [**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**](https://arxiv.org/abs/2408.10357),
+- [**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**](https://arxiv.org/abs/2408.12398),
 **Weijia Zhang**, Mohammad Aliannejadi, Jiahuan Pei, Yifei Yuan, Jia-Hong Huang, Evangelos Kanoulas.
 _In LLM4Eval@SIGIR 2024: The First Workshop on Large Language Model for Evaluation in Information Retrieval_, 2024.
 
-- [**Tackling Query-Focused Summarization as A Knowledge-Intensive Task: A Pilot Study**](https://arxiv.org/abs/2408.10357),
+- [**Tackling Query-Focused Summarization as A Knowledge-Intensive Task: A Pilot Study**](https://arxiv.org/abs/2112.07536),
 **Weijia Zhang**, Svitlana Vakulenko, Thilina Rajapakse, Yumo Xu, Evangelos Kanoulas.
 _In Gen-IR@SIGIR 2023: The First Workshop on Generative Information Retrieval_, 2023.
 
