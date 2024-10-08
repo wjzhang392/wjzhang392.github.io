@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD researcher at [Information Retrieval Lab](https://irlab.science.uva.nl/) at the University of Amsterdam, working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I obtained my M.Eng. and B.Eng. degrees from the School of Electronics and Infomation Technology at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Guangzhou, China. You can find the details in my [Curriculum Vitae](../files/cv.pdf).
+I am Weijia Zhang, a PhD student at [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam. I am working with [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I obtained my M.Eng. and B.Eng. degrees from the School of Electronics and Infomation Technology at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Guangzhou, China. You can find the details in my [Curriculum Vitae](../files/cv.pdf).
 
 Research Interests
 ----
