@@ -16,7 +16,7 @@ My primary research focuses on natural language generation (NLG) and large langu
 
 News
 ======
-- **SEP, 2024:** One paper accepted at EMNLP-2024.
+- **Sep, 2024:** One paper accepted at EMNLP-2024.
 - **Aug, 2024:** One paper accepted at ICPR-2024.
 - **Jul, 2024:** One paper accepted at ECAI-2024.
 - **Jul, 2024:** One paper accepted at INLG-2024 (Oral).
