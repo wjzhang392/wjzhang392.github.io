@@ -13,7 +13,7 @@ Research Interests
 
 My primary research focuses on natural language generation (NLG) and large language models (LLMs). I specialize in retrieval-augmented generation (RAG), hallucination evaluation, and query-focused summarization (QFS).
 
-<span style="color:red">I am actively seeking industrial positions for 2025, with a preference for opportunities in San Francisco. Please feel free to reach out if you believe I could be a good fit!</span>.
+<span style="color:red">I am actively seeking industrial positions for 2025, with a preference for opportunities in San Francisco Bay Area and Seattle. Please feel free to reach out if you believe I could be a good fit!</span>.
 
 [[Email]](mailto:weijia.zhangplus@gmail.com)
 [[Google Scholar]](https://scholar.google.com/citations?user=eGRikvEAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/weijia-zhang-ab3482172/)
