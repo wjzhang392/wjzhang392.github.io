@@ -13,9 +13,7 @@ I am Weijia Zhang, a final-year Ph.D. candidate at [Information Retrieval Lab](h
 Research Interests
 ----
 
-My primary research focuses on Large Language Models (LLMs) and Agentic AI. I specialize in Agentic Deep Research, Table Understanding, and Retrieval-Augmented Generation (RAG). I am actively seeking collaboration with researchers in these areas, feel free to reach out if you are interested in working together!
-
-<!-- <span style="color:red">I am actively seeking industrial positions for 2025, with a preference for opportunities in San Francisco Bay Area and Seattle. Please feel free to reach out if you believe I could be a good fit!</span>. -->
+My primary research focuses on Large Language Models (LLMs) and Agentic AI. I specialize in Agentic Deep Research, Table Understanding, and Retrieval-Augmented Generation (RAG). <span style="color:red">I am actively seeking collaboration with researchers in these areas, feel free to reach out if you are interested in working together!</span>.
 
 [[Email]](mailto:weijia.zhangplus@gmail.com)
 [[Google Scholar]](https://scholar.google.com/citations?user=eGRikvEAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/weijia-zhang-ab3482172/)
