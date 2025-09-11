@@ -28,23 +28,30 @@ News
 - **May, 2024:** One paper accepted at LLM4EVAL@SIGIR 2024.
 - **Aug, 2023:** One paper accepted at GEN-IR@SIGIR 2023.
 
+Arxiv Preprints
+======
+
+1. **Beyond Natural Language Plans: Structure-Aware Planning for Query-Focused Table Summarization**  
+**Weijia Zhang**, Songgaojun Deng, Evangelos Kanoulas  
+[[pdf]](https://arxiv.org/pdf/2507.22829)
+
 Publications
 ======
 
 1. **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**  
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, Li Zhou, **Weijia Zhang**, et al.  
 **EMNLP 2024**: _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing_   
-[[pdf]](https://arxiv.org/abs/2406.11030)
+[[pdf]](https://arxiv.org/pdf/2406.11030)
 
 1. **QFMTS: Generating Query-Focused Summaries over Multi-Table Inputs**  
 **Weijia Zhang**, Vaishali Pal, Jia-Hong Huang, Evangelos Kanoulas, Maarten de Rijke   
 **ECAI 2024**: _Proceedings of the 27th European Conference on Artificial Intelligence_  
-[[pdf]](https://arxiv.org/abs/2405.05109)
+[[pdf]](https://arxiv.org/pdf/2405.05109)
 
 1. **Beyond Relevant Documents: A Knowledge-Intensive Approach for Query-Focused Summarization using Large Language Models**  
 **Weijia Zhang**, Jia-Hong Huang, Svitlana Vakulenko, Yumo Xu, Thilina Rajapakse, Evangelos Kanoulas  
 **ICPR 2024**: _Proceedings of the 27th International Conference on Pattern Recognition_  
-[[pdf]](https://arxiv.org/abs/2408.10357)
+[[pdf]](https://arxiv.org/pdf/2408.10357)
 
 1. **Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**  
 **Weijia Zhang**, Mohammad Aliannejadi, Yifei Yuan, Jiahuan Pei, Jia-hong Huang, Evangelos Kanoulas  
@@ -54,12 +61,12 @@ Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, Li Zhou, **Weijia Z
 1. **A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**  
 **Weijia Zhang**, Mohammad Aliannejadi, Jiahuan Pei, Yifei Yuan, Jia-Hong Huang, Evangelos Kanoulas  
 **LLM4Eval@SIGIR 2024**: _The First Workshop on Large Language Model for Evaluation in Information Retrieval_  
-[[pdf]](https://arxiv.org/abs/2408.12398)
+[[pdf]](https://arxiv.org/pdf/2408.12398)
 
 1. **Tackling Query-Focused Summarization as A Knowledge-Intensive Task: A Pilot Study**  
 **Weijia Zhang**, Svitlana Vakulenko, Thilina Rajapakse, Yumo Xu, Evangelos Kanoulas  
 **Gen-IR@SIGIR 2023**: _The First Workshop on Generative Information Retrieval_  
-[[pdf]](https://arxiv.org/abs/2112.07536)
+[[pdf]](https://arxiv.org/pdf/2112.07536)
 
 1. **A Deep Neural Information Fusion Architecture for Textual Network Embeddings**  
 Zenan Xu, Qinliang Su, Xiaojun Quan, **Weijia Zhang**  
