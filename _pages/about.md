@@ -6,20 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weijia Zhang, a final-year Ph.D. candidate at [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam. I am honored to be supervised by [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I obtained my M.Eng. and B.Eng. degrees from the School of Electronics and Infomation Technology at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Guangzhou, China. My curriculum vitae is available [here](../files/cv.pdf).
+I am Weijia Zhang, a final-year Ph.D. candidate at [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam. I am honored to be supervised by [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I obtained my M.Eng. and B.Eng. degrees from the School of Electronics and Infomation Technology at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Guangzhou, China. 
+
+<!-- My curriculum vitae is available [here](../files/cv.pdf). -->
 
 Research Interests
 ----
 
-My primary research focuses on natural language generation (NLG) and large language models (LLMs). I specialize in retrieval-augmented generation (RAG), hallucination evaluation, and query-focused summarization (QFS).
+My primary research focuses on Large Language Models (LLMs) and Agentic AI. I specialize in Agentic Deep Research, Table Understanding, and Retrieval-Augmented Generation (RAG). I am actively seeking collaboration with researchers in these areas, feel free to reach out if you are interested in working together!
 
-<span style="color:red">I am actively seeking industrial positions for 2025, with a preference for opportunities in San Francisco Bay Area and Seattle. Please feel free to reach out if you believe I could be a good fit!</span>.
+<!-- <span style="color:red">I am actively seeking industrial positions for 2025, with a preference for opportunities in San Francisco Bay Area and Seattle. Please feel free to reach out if you believe I could be a good fit!</span>. -->
 
 [[Email]](mailto:weijia.zhangplus@gmail.com)
 [[Google Scholar]](https://scholar.google.com/citations?user=eGRikvEAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/weijia-zhang-ab3482172/)
 
 News
 ======
+- **Aug, 2025:** One paper accepted at EMNLP 2025.
 - **Sep, 2024:** One paper accepted at EMNLP 2024.
 - **Aug, 2024:** One paper accepted at ICPR 2024.
 - **Jul, 2024:** One paper accepted at ECAI 2024.
