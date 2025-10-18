@@ -25,8 +25,6 @@ News
 - **Aug, 2024:** One paper accepted at ICPR 2024.
 - **Jul, 2024:** One paper accepted at ECAI 2024.
 - **Jul, 2024:** One paper accepted at INLG 2024 (Oral).
-<!-- - **May, 2024:** One paper accepted at LLM4EVAL@SIGIR 2024.
-- **Aug, 2023:** One paper accepted at GEN-IR@SIGIR 2023. -->
 
 Arxiv Preprints
 ======
