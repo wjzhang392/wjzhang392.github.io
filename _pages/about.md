@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weijia Zhang, a final-year Ph.D. candidate at [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam. I am honored to be supervised by [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I obtained my M.Eng. and B.Eng. degrees from the School of Electronics and Infomation Technology at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Guangzhou, China. 
+I am Weijia Zhang, an Applied Scientist at Amazon in Seattle. Previously, I completed my Ph.D. at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam, under the supervision of [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I received my M.Eng. and B.Eng. degrees from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
 <!-- My curriculum vitae is available [here](../files/cv.pdf). -->
 
@@ -20,13 +20,13 @@ My primary research focuses on Large Language Models (LLMs) and Agentic AI. I sp
 
 News
 ======
-- **Aug, 2025:** One paper accepted at EMNLP 2025.
+- **Aug, 2025:** One paper accepted at EMNLP 2025 Findings.
 - **Sep, 2024:** One paper accepted at EMNLP 2024.
 - **Aug, 2024:** One paper accepted at ICPR 2024.
 - **Jul, 2024:** One paper accepted at ECAI 2024.
 - **Jul, 2024:** One paper accepted at INLG 2024 (Oral).
-- **May, 2024:** One paper accepted at LLM4EVAL@SIGIR 2024.
-- **Aug, 2023:** One paper accepted at GEN-IR@SIGIR 2023.
+<!-- - **May, 2024:** One paper accepted at LLM4EVAL@SIGIR 2024.
+- **Aug, 2023:** One paper accepted at GEN-IR@SIGIR 2023. -->
 
 Arxiv Preprints
 ======
@@ -37,6 +37,11 @@ Arxiv Preprints
 
 Publications
 ======
+
+1. **Summarize-Exemplify-Reflect: Data-driven Insight Distillation Empowers LLMs for Few-shot Tabular Classification**
+Yifei Yuan, Jiatong Li, **Weijia Zhang**, Mohammad Aliannejadi, Evangelos Kanoulas, Renjun Hu
+**EMNLP 2025 Findings**: _The 2025 Conference on Empirical Methods in Natural Language Processing_
+[[pdf]](https://arxiv.org/pdf/2508.21561)
 
 1. **FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**  
 Wenyan Li, Xinyu Zhang, Jiaang Li, Qiwei Peng, Raphael Tang, Li Zhou, **Weijia Zhang**, et al.  
