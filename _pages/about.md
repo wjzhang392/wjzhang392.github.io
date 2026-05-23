@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weijia Zhang, an Applied Scientist at Amazon in Seattle. Previously, I completed my Ph.D. at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam, under the supervision of [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/). I received my M.Eng. and B.Eng. degrees from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+I am Weijia Zhang, a Software Engineer at Google, working on user and click modeling for Google Ads. Previously, I was an Applied Scientist at Amazon in Seattle. I completed my Ph.D. at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam, under the supervision of [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/).
 
 <!-- My curriculum vitae is available [here](../files/cv.pdf). -->
 
 Research Interests
 ----
 
-My primary research focuses on Large Language Models (LLMs) and Agentic AI. I specialize in Agentic Deep Research, Table Understanding, and Retrieval-Augmented Generation (RAG). <span style="color:red">I am actively seeking collaboration with researchers in these areas, feel free to reach out if you are interested in working together!</span>.
+My research interests lie at the intersection of Information Retrieval, Large Language Models (LLMs), and Agentic AI, with a particular focus on agentic deep research and table understanding.
 
 [[Email]](mailto:weijia.zhangplus@gmail.com)
 [[Google Scholar]](https://scholar.google.com/citations?user=eGRikvEAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/weijia-zhang-ab3482172/)
@@ -28,6 +28,10 @@ News
 
 Arxiv Preprints
 ======
+
+1. **CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation**<br>
+Yutong Song, Jiang Wu, **Weijia Zhang**, Chengze Shen, Shaofan Yuan, Weitao Lu, Jian Wang, Yu Wang, Nikil Dutt, Amir M. Rahmani<br>
+[[pdf]](https://arxiv.org/pdf/2601.06352)
 
 1. **Beyond Natural Language Plans: Structure-Aware Planning for Query-Focused Table Summarization**  
 **Weijia Zhang**, Songgaojun Deng, Evangelos Kanoulas  
