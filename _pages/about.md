@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weijia Zhang, a Software Engineer at Google, working on user and click modeling for Google Ads. Previously, I was an Applied Scientist at Amazon in Seattle. I completed my Ph.D. at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam, under the supervision of [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/).
+I am Weijia Zhang, a Software Engineer at Google, working on improving Ads personalization and Agentic AI applications. Previously, I was an Applied Scientist at Amazon in Seattle. I completed my Ph.D. at the [Information Retrieval Lab](https://irlab.science.uva.nl/), University of Amsterdam, under the supervision of [Prof. Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/).
 
 <!-- My curriculum vitae is available [here](../files/cv.pdf). -->
 
