@@ -1,18 +1,14 @@
-# Authors
+"Weijia Zhang":
+  bold: true
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+"Evangelos Kanoulas":
+  url: https://staff.fnwi.uva.nl/e.kanoulas/
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+"Maarten de Rijke":
+  url: https://staff.fnwi.uva.nl/m.derijke/
+
+"Mohammad Aliannejadi":
+  url: https://aliannejadi.com/
+
+"Songgaojun Deng":
+  url: https://songgaojundeng.github.io/

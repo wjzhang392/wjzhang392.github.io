@@ -1,0 +1,29 @@
+primary_name: "Weijia Zhang"
+secondary_name: ""
+navbar_name: "Weijia Zhang"
+
+positions:
+- name: Software Engineer, AI/ML
+- name: Google
+- name: Mountain View, CA
+
+email: "weijia.zhangplus@gmail.com"
+gscholar: eGRikvEAAAAJ
+github: wjzhang392
+linkedin: weijia-zhang-ab3482172
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    I am a Software Engineer at <a href="https://about.google/" target="_blank">Google</a>, working on improving Ads
+    ranking and personalization.
+    I completed my Ph.D. at the <a href="https://irlab.science.uva.nl/" target="_blank">Information Retrieval Lab</a>,
+    University of Amsterdam, under the supervision of
+    <a href="https://staff.fnwi.uva.nl/e.kanoulas/" target="_blank">Prof. Evangelos Kanoulas</a>.
+  </p>
+  <p>
+    My research sits at the intersection of information retrieval and natural language generation, with a particular
+    focus on factuality in unstructured text generation and reasoning over structured data such as tables.
+  </p>
+
+portrait_url: /assets/images/photos/profile.png
