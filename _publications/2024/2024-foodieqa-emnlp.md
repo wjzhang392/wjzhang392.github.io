@@ -17,5 +17,5 @@ authors:
   - Weijia Zhang
   - et al.
 links:
-  PDF: https://arxiv.org/pdf/2406.11030
+  PDF: https://aclanthology.org/2024.emnlp-main.1063/
 ---

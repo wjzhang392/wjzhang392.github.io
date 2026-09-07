@@ -15,5 +15,5 @@ authors:
   - Thilina Rajapakse
   - Evangelos Kanoulas
 links:
-  PDF: https://arxiv.org/pdf/2408.10357
+  PDF: https://link.springer.com/chapter/10.1007/978-3-031-78495-8_6
 ---

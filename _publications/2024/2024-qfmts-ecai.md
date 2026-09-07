@@ -14,5 +14,5 @@ authors:
   - Evangelos Kanoulas
   - Maarten de Rijke
 links:
-  PDF: https://arxiv.org/pdf/2405.05109
+  PDF: https://doi.org/10.3233/FAIA240951
 ---
