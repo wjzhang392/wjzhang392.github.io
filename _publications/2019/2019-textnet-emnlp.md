@@ -13,5 +13,5 @@ authors:
   - Xiaojun Quan
   - Weijia Zhang
 links:
-  PDF: https://aclanthology.org/D19-1476/
+  Paper: https://aclanthology.org/D19-1476/
 ---

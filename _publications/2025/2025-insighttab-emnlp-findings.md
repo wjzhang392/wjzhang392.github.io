@@ -16,5 +16,5 @@ authors:
   - Evangelos Kanoulas
   - Renjun Hu
 links:
-  PDF: https://aclanthology.org/2025.findings-emnlp.659/
+  Paper: https://aclanthology.org/2025.findings-emnlp.659/
 ---
