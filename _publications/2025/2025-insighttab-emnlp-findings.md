@@ -2,7 +2,7 @@
 title:          "Summarize-Exemplify-Reflect: Data-driven Insight Distillation Empowers LLMs for Few-shot Tabular Classification"
 date:           2025-08-20 00:01:00 +0000
 selected:       true
-pub:            "Findings of EMNLP 2025"
+pub:            "Findings of the Association for Computational Linguistics: EMNLP"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Findings</span>'
 abstract: >-
