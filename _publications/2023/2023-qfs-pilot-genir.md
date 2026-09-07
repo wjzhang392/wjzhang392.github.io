@@ -15,5 +15,5 @@ authors:
   - Yumo Xu
   - Evangelos Kanoulas
 links:
-  PDF: https://arxiv.org/pdf/2112.07536
+  Paper: https://arxiv.org/pdf/2112.07536
 ---
