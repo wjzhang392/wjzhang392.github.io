@@ -16,5 +16,5 @@ authors:
   - Jia-Hong Huang
   - Evangelos Kanoulas
 links:
-  Paper: https://arxiv.org/pdf/2408.12398
+  Paper: https://arxiv.org/abs/2408.12398
 ---

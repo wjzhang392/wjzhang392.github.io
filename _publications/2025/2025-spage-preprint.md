@@ -12,5 +12,5 @@ authors:
   - Songgaojun Deng
   - Evangelos Kanoulas
 links:
-  Paper: https://arxiv.org/pdf/2507.22829
+  Paper: https://arxiv.org/abs/2507.22829
 ---
